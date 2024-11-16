@@ -1,3 +1,5 @@
-Hello My name is Nishan Das
-Now I am a student of DUET
-My student ID 2204068
+New Updates
+- More flexible.
+- Easy to maintain.
+- Bug fixes.
+- Payment sytem Added.
